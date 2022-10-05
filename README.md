@@ -13,5 +13,5 @@ I have a few published works that are available for purchase/download:
 
 ## Links
 
-* LinkedIn Profoile: [https://www.linkedin.com/in/matthewburr/](https://www.linkedin.com/in/matthewburr/)
+* LinkedIn Profile: [https://www.linkedin.com/in/matthewburr/](https://www.linkedin.com/in/matthewburr/)
 * Personal Website: [https://mjcb.io/](https://mjcb.io/)
