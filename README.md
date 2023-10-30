@@ -10,6 +10,7 @@ I have a few published works that are available for purchase/download:
 
 * [Practical Guide to PKI with Windows Server](https://mjcb.io/publications/practical-guide-to-pki-with-windows-server/)
 * [Building a Certificate Authority in Windows Server 2019](https://mjcb.io/publications/building-a-certificate-authority-in-windows-server-2019/)
+* [AD CS on Windows Server 2022](https://mjcb.io/publications/adcs-on-windows-server-2022/)
 
 ## Links
 
